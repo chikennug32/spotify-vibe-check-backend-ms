@@ -35,7 +35,7 @@ const songs = [
   },
   {
     id: 3,
-    title: "Sunroof"
+    title: "Sunroof",
     artist: "Nicky Youre & dazy",
     album: "Sunroof",
     vibe: "☀️ Good Vibes / Summer",
